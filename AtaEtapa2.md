@@ -30,3 +30,12 @@ Todos os membros do grupo se dividiram para executar as tarefas específicas da 
 
 ## Cronograma de Atividades
 Elaboramos uma tabela que apresenta, de forma organizada, os dias dedicados por cada integrante e as atividades realizadas nesse período. Essa estrutura facilita o acompanhamento do progresso e a identificação de marcos alcançados na segunda etapa.
+
+| Integrante                  | Dias Dedicados | Atividades Principais          | Descrição da Atividade                                                                 |
+|:----------------------------:|:---------------:|:-------------------------------:|:----------------------------------------------------------------------------------------:|
+| Anna Carolina Saldanha de Lima |      |  |     |
+| Cristiano Henrique Amorim   |       |  |        |
+| João Alberto Raymundo Borges|       |      |  |
+| Lucas Soares dos Reis       |       |  |              |
+| Natália Kiefer Ferreira     | 5     | Documentação e criação do serviço de impressão  | Criação da documentação da primeira e da segunda etapa, além da criação do serviço de impressão na AWS|
+| Rafael Vinícius da Silva    |       |  |                 |
