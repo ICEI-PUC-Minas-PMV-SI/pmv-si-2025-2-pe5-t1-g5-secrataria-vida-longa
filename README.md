@@ -24,6 +24,3 @@ Inicialmente, o estudo envolve a modelagem e configuração da rede no Packet Tr
 
 * Fábio Leandro Rodrigues
 
-## Planejamento durante a segunda etapa
-
-## Cronograma durante a segunda etapa
