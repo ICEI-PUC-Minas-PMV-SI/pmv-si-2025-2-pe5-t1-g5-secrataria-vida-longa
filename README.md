@@ -18,6 +18,7 @@ Inicialmente, o estudo envolve a modelagem e configuração da rede no Packet Tr
 * Cristiano Henrique Amorim
 * João Alberto Raymundo Borges
 * Lucas Soares dos Reis
+* Natália Kiefer Ferreira
 * Rafael Vinícius da Silva
 
 ## Orientador
