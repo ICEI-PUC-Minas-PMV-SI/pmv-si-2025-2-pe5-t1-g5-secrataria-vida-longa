@@ -26,7 +26,7 @@ Todos os membros do grupo se dividiram para executar as tarefas específicas da 
 - **João Alberto Raymundo Borges**: 
 - **Lucas Soares dos Reis**: Realizei a crição do serviço de GPO e pasta de rede
 - **Natália Kiefer Ferreira**: Realizou toda a documentação do trabalho além de realizar o serviço de Impressão
-- **Rafael Vinícius da Silva**: 
+- **Rafael Vinícius da Silva**: Realizou a criação do domínio, configuração do AD e DNS no servidor local.
 
 ## Cronograma de Atividades
 Elaboramos uma tabela que apresenta, de forma organizada, os dias dedicados por cada integrante e as atividades realizadas nesse período. Essa estrutura facilita o acompanhamento do progresso e a identificação de marcos alcançados na segunda etapa.
@@ -38,4 +38,4 @@ Elaboramos uma tabela que apresenta, de forma organizada, os dias dedicados por 
 | João Alberto Raymundo Borges|       | Criação do FTP e criação do servidor web com Cristiano     | Criação do serviço de FTP dentro do AWS EC2 e auxilio a criação do serviço Web |
 | Lucas Soares dos Reis       | 4     | Crição do serviço de GPO e pasta de rede | Realizei a crição do serviço de GPO e pasta de rede |
 | Natália Kiefer Ferreira     | 5     | Documentação e criação do serviço de impressão  | Criação da documentação da primeira e da segunda etapa, além da criação do serviço de impressão na AWS|
-| Rafael Vinícius da Silva    |       |  |                 |
+| Rafael Vinícius da Silva    | 5     | Criação do domínio, configuração do AD e DNS no servidor local | Realizei a criação do domínio, configuração do AD e DNS no servidor local|
