@@ -24,7 +24,7 @@ Todos os membros do grupo se dividiram para executar as tarefas específicas da 
 - **Anna Carolina Saldanha de Lima**: 
 - **Cristiano Henrique Amorim**: 
 - **João Alberto Raymundo Borges**: 
-- **Lucas Soares dos Reis**: 
+- **Lucas Soares dos Reis**: Realizei a crição do serviço de GPO e pasta de rede
 - **Natália Kiefer Ferreira**: Realizou toda a documentação do trabalho além de realizar o serviço de Impressão
 - **Rafael Vinícius da Silva**: 
 
@@ -36,6 +36,6 @@ Elaboramos uma tabela que apresenta, de forma organizada, os dias dedicados por 
 | Anna Carolina Saldanha de Lima |      |  |     |
 | Cristiano Henrique Amorim   |       |  |        |
 | João Alberto Raymundo Borges|       | Criação do FTP e criação do servidor web com Cristiano     | Criação do serviço de FTP dentro do AWS EC2 e auxilio a criação do serviço Web |
-| Lucas Soares dos Reis       |       |  | |
+| Lucas Soares dos Reis       | 4     | Crição do serviço de GPO e pasta de rede | Realizei a crição do serviço de GPO e pasta de rede |
 | Natália Kiefer Ferreira     | 5     | Documentação e criação do serviço de impressão  | Criação da documentação da primeira e da segunda etapa, além da criação do serviço de impressão na AWS|
 | Rafael Vinícius da Silva    |       |  |                 |
