@@ -35,7 +35,7 @@ Elaboramos uma tabela que apresenta, de forma organizada, os dias dedicados por 
 |:----------------------------:|:---------------:|:-------------------------------:|:----------------------------------------------------------------------------------------:|
 | Anna Carolina Saldanha de Lima |      |  |     |
 | Cristiano Henrique Amorim   |       |  |        |
-| João Alberto Raymundo Borges|       |      |  |
-| Lucas Soares dos Reis       |       |  |              |
+| João Alberto Raymundo Borges|       | Criação do FTP e criação do servidor web com Cristiano     | Criação do serviço de FTP dentro do AWS EC2 e auxilio a criação do serviço Web |
+| Lucas Soares dos Reis       |       |  | |
 | Natália Kiefer Ferreira     | 5     | Documentação e criação do serviço de impressão  | Criação da documentação da primeira e da segunda etapa, além da criação do serviço de impressão na AWS|
 | Rafael Vinícius da Silva    |       |  |                 |
