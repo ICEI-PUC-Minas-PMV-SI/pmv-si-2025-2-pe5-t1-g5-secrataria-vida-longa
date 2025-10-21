@@ -33,7 +33,7 @@ Elaboramos uma tabela que apresenta, de forma organizada, os dias dedicados por 
 
 | Integrante                  | Dias Dedicados | Atividades Principais          | Descrição da Atividade                                                                 |
 |:----------------------------:|:---------------:|:-------------------------------:|:----------------------------------------------------------------------------------------:|
-| Anna Carolina Saldanha de Lima |      |  |     |
+| Anna Carolina Saldanha de Lima | 4     | Configuração do servidor DHCP |  Configuração do serviço DHCP no Ubuntu Server e realização da configuração e comunicação com o cliente Windows.   |
 | Cristiano Henrique Amorim   |       |  |        |
 | João Alberto Raymundo Borges|       | Criação do FTP e criação do servidor web com Cristiano     | Criação do serviço de FTP dentro do AWS EC2 e auxilio a criação do serviço Web |
 | Lucas Soares dos Reis       | 4     | Crição do serviço de GPO e pasta de rede | Realizei a crição do serviço de GPO e pasta de rede |
