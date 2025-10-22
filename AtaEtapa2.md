@@ -21,9 +21,9 @@ O propósito primordial desta ata é **realizar o controle da participação de 
 ## Participantes e Controle de Presença
 Todos os membros do grupo se dividiram para executar as tarefas específicas da etapa, demonstrando compromisso coletivo com o projeto. Abaixo, o registro detalhado da participação e das responsabilidades atribuídas:
 
-- **Anna Carolina Saldanha de Lima**: 
-- **Cristiano Henrique Amorim**: 
-- **João Alberto Raymundo Borges**: 
+- **Anna Carolina Saldanha de Lima**: Configuração do serviço DHCP no Ubuntu Server e realização da configuração e comunicação com o cliente Windows.
+- **Cristiano Henrique Amorim**: Realizou a criação do serviço de WEB e do serviço de DB na AWS.
+- **João Alberto Raymundo Borges**: Realizou a criação do serviço de FTP dentro do AWS EC2 e auxilio a criação do serviço Web
 - **Lucas Soares dos Reis**: Realizei a crição do serviço de GPO e pasta de rede
 - **Natália Kiefer Ferreira**: Realizou toda a documentação do trabalho além de realizar o serviço de Impressão
 - **Rafael Vinícius da Silva**: Realizou a criação do domínio, configuração do AD e DNS no servidor local.
@@ -34,8 +34,8 @@ Elaboramos uma tabela que apresenta, de forma organizada, os dias dedicados por 
 | Integrante                  | Dias Dedicados | Atividades Principais          | Descrição da Atividade                                                                 |
 |:----------------------------:|:---------------:|:-------------------------------:|:----------------------------------------------------------------------------------------:|
 | Anna Carolina Saldanha de Lima | 4     | Configuração do servidor DHCP |  Configuração do serviço DHCP no Ubuntu Server e realização da configuração e comunicação com o cliente Windows.   |
-| Cristiano Henrique Amorim   |       |  |        |
-| João Alberto Raymundo Borges|       | Criação do FTP e criação do servidor web com Cristiano     | Criação do serviço de FTP dentro do AWS EC2 e auxilio a criação do serviço Web |
+| Cristiano Henrique Amorim   | 5     | Criação do serviço de WEB e DB |  Criação do serviço de WEB e do serviço de DB na AWS.   |
+| João Alberto Raymundo Borges| 5     | Criação do FTP e criação do servidor web com Cristiano     | Criação do serviço de FTP dentro do AWS EC2 e auxilio a criação do serviço Web |
 | Lucas Soares dos Reis       | 4     | Crição do serviço de GPO e pasta de rede | Realizei a crição do serviço de GPO e pasta de rede |
 | Natália Kiefer Ferreira     | 5     | Documentação e criação do serviço de impressão  | Criação da documentação da primeira e da segunda etapa, além da criação do serviço de impressão na AWS|
 | Rafael Vinícius da Silva    | 5     | Criação do domínio, configuração do AD, DNS no servidor local, configuração de DNS na AWS | Realizei a criação do domínio, configuração do AD, DNS no servidor local e DNS na AWS|
