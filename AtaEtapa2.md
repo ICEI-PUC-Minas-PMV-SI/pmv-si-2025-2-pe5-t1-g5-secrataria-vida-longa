@@ -38,4 +38,4 @@ Elaboramos uma tabela que apresenta, de forma organizada, os dias dedicados por 
 | João Alberto Raymundo Borges|       | Criação do FTP e criação do servidor web com Cristiano     | Criação do serviço de FTP dentro do AWS EC2 e auxilio a criação do serviço Web |
 | Lucas Soares dos Reis       | 4     | Crição do serviço de GPO e pasta de rede | Realizei a crição do serviço de GPO e pasta de rede |
 | Natália Kiefer Ferreira     | 5     | Documentação e criação do serviço de impressão  | Criação da documentação da primeira e da segunda etapa, além da criação do serviço de impressão na AWS|
-| Rafael Vinícius da Silva    | 5     | Criação do domínio, configuração do AD e DNS no servidor local | Realizei a criação do domínio, configuração do AD e DNS no servidor local|
+| Rafael Vinícius da Silva    | 5     | Criação do domínio, configuração do AD, DNS no servidor local, configuração de DNS na AWS | Realizei a criação do domínio, configuração do AD, DNS no servidor local e DNS na AWS|
