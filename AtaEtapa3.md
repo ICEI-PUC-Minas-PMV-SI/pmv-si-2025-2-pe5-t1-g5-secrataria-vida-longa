@@ -18,7 +18,7 @@ Essa abordagem contribui para o gerenciamento eficiente do tempo e dos recursos 
 Os membros do grupo dividiram-se para executar as tarefas específicas desta etapa, demonstrando comprometimento coletivo com o projeto. A seguir, o registro detalhado das responsabilidades atribuídas:
 
 - **Anna Carolina Saldanha de Lima**: Configuração do Zabbix Agent no serviço de DHCP, permitindo a comunicação com o servidor Zabbix e o monitoramento adequado.  
-- **Cristiano Henrique Amorim**: 
+- **Cristiano Henrique Amorim**: Orientação e apoio aos demais integrantes na configuração dos agentes, garantindo o monitoramento dos serviços.
 - **João Alberto Raymundo Borges**: Configuração do Zabbix Agent no serviço de FTP, possibilitando a comunicação com o servidor Zabbix e o monitoramento correspondente.  
 - **Lucas Soares dos Reis**: Criação e Configuração de GPO no servidor vidalonga.local 
 - **Natália Kiefer Ferreira**: Configuração e hospedagem do servidor Zabbix na AWS; configuração do Zabbix Agent no serviço de Impressão; orientação e apoio aos demais integrantes na configuração dos agentes, garantindo o monitoramento dos serviços.  
