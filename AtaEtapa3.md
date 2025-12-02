@@ -20,7 +20,7 @@ Os membros do grupo dividiram-se para executar as tarefas específicas desta eta
 - **Anna Carolina Saldanha de Lima**: Configuração do Zabbix Agent no serviço de DHCP, permitindo a comunicação com o servidor Zabbix e o monitoramento adequado.  
 - **Cristiano Henrique Amorim**: 
 - **João Alberto Raymundo Borges**: Configuração do Zabbix Agent no serviço de FTP, possibilitando a comunicação com o servidor Zabbix e o monitoramento correspondente.  
-- **Lucas Soares dos Reis**: 
+- **Lucas Soares dos Reis**: Criação e Configuração de GPO no servidor vidalonga.local 
 - **Natália Kiefer Ferreira**: Configuração e hospedagem do servidor Zabbix na AWS; configuração do Zabbix Agent no serviço de Impressão; orientação e apoio aos demais integrantes na configuração dos agentes, garantindo o monitoramento dos serviços.  
 - **Rafael Vinícius da Silva**: Configuração e hospedagem do servidor Zabbix na VirtualBox; configuração do Zabbix Agent no serviço de DNS; configuração do Active Directory hospedado na VirtualBox e monitorado pelo servidor Zabbix.  
 
@@ -32,6 +32,6 @@ A tabela abaixo apresenta, de forma organizada, os dias dedicados por cada integ
 | Anna Carolina Saldanha de Lima | 4     | Configuração do Zabbix Agent no servidor DHCP | Configuração do agente para comunicação com o servidor Zabbix e monitoramento do serviço DHCP |
 | Cristiano Henrique Amorim   |      |  |    |
 | João Alberto Raymundo Borges| 5     | Configuração do Zabbix Agent no serviço de FTP | Configuração do agente para comunicação com o servidor Zabbix e monitoramento do serviço FTP |
-| Lucas Soares dos Reis       |      |  |  |
+| Lucas Soares dos Reis       | 4     | Criação e Configuração de GPO no servidor vidalonga.local | Mapeamento das unidades de redes com a GPO |
 | Natália Kiefer Ferreira     | 7     | Configuração e hospedagem do servidor Zabbix na AWS; configuração do Zabbix Agent no serviço de Impressão; orientação aos integrantes | Configuração completa do servidor Zabbix na AWS, integração do agente de Impressão e apoio aos demais participantes |
 | Rafael Vinícius da Silva    | 7     | Configuração e hospedagem do servidor Zabbix na VirtualBox; configuração do Zabbix Agent no serviço de DNS; configuração do AD | Implementação do servidor Zabbix na VirtualBox, integração do agente de DNS e configuração do Active Directory |
